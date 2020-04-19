@@ -6,7 +6,7 @@
 
 프로젝트 계획서 작성 실습
 
-
+![2](https://user-images.githubusercontent.com/59241047/79690276-95e7f980-8294-11ea-9f4a-585e90795e7f.JPG)
 
 ##### 멘토 링크 공유
 
