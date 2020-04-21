@@ -1,1 +1,1 @@
-## 멘토링 자료 및 피드백 정리
+## AI Image Course: 멘토링 Record
